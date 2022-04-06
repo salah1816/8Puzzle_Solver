@@ -45,8 +45,8 @@ public class Main extends Application {
 //		System.out.println("the Algorithm BFS was done in : "+time+" milliseconds");
 //
 //        Recherche recherche1 = new DFSDrias(etatInitial, etatFinal,4);
-//////        List<Action> l=recherche1.run();
-//////        if(l.isEmpty()) System.out.println("there is no solution");
+//        List<Action> l=recherche1.run();
+//        if(l.isEmpty()) System.out.println("there is no solution");
 //        time = TimeTest.testTime(recherche1);
 //        System.out.println("the Algorithm DFS was done in : "+time+" milliseconds");
 
