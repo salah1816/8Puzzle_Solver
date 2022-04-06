@@ -1,0 +1,18 @@
+
+#BtnRun,#BtnEnd {
+    -fx-background-insets: 0;
+    -fx-background-radius: 30;
+
+}
+#BtnEnd:hover {
+    -fx-background-color:linear-gradient(#ff4d4d,#e60000);
+    -fx-text-fill : white;
+}
+#BtnRun:hover {
+    -fx-background-color:linear-gradient(#4dff4d,#00cc00);
+     -fx-text-fill : white;
+}
+#BtnNext:active {
+	-fx-background: #2c3e50;
+	-fx-top: 2px;
+}
